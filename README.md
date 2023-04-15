@@ -31,11 +31,6 @@
 
 
 
-</td></tr></table>  
-
-<br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/https://github.com/DudnikDanyil" target="_blank">
@@ -50,23 +45,6 @@
 </div>  
   
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
 
 
 <br />
