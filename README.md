@@ -1,4 +1,4 @@
-### <div align="center">Hi, I'm Danyil, a Junior Java Developer ☕</div>  
+### <div align="center">Hi, I'm Danyil, a Java Developer ☕</div>  
   
 
 -  👉 I’m currently working on [Github Profilinator](https://github.com/DudnikDanyil/Storage)  
