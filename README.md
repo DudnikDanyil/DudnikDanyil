@@ -6,8 +6,6 @@
 
 - ✉️ You can reach out to me via my [LinkedIn](https://www.linkedin.com/in/danyil-dudnik-53673b270/) profile  
   
-
-- ⚡ [Link](https://drive.google.com/file/d/1ui7TLr-Z-hqkX_ryl5novkqxE52XjkIC/view?usp=sharing) to my resume  
   
 
 <br/>  
